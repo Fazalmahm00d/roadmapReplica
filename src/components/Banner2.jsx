@@ -34,7 +34,7 @@ function Banner2(){
                     </p>   
                     <div className="flex items-center flex-col my-0"> 
                         <p className="my-4 mr-0  font-bold w-auto text-5xl"> +1M </p>
-                        <p className="mb-0 mt-0  text-xs tracking-wide text-black -mt-3 mb-5"> Registered Users </p> 
+                        <p className="text-xs tracking-wide text-black -mt-3 mb-5"> Registered Users </p> 
                     </div> 
                     <a  className="group mt-0 flex flex-col items-center rounded-lg border border-black bg-white px-3 py-2 text-sm hover:bg-black hover:text-white">
                         <div class="mb-0.5 flex items-center font-semibold"> 
